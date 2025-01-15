@@ -21,10 +21,6 @@
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Captando&show_icons=true&count_private=true&hide_border=true&title_color=00ADD0&icon_color=00ADD0&text_color=c9d1d9&bg_color=0d1117" /> 
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captando&layout=compact&hide_border=true&title_color=00ADD0&text_color=c9d1d9&bg_color=0d1117" />
 
-### 🚀 Projetos em Destaque
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Captando&repo=spark-academy&bg_color=0d1117&border_color=0d1117&show_icons=true&icon_color=00ADD0&title_color=00ADD0&text_color=c9d1d9)](https://github.com/Captando/spark-academy)
-
 ### 🌐 Redes & Contato
 
 <a href="mailto:dev@captando.com.br">
@@ -38,5 +34,3 @@
 </a>
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00ADD0,100:0D47A1&height=120&section=footer)
